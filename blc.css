@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+}
+
+.container {
+    width: 100%;
+    padding: 3% 7% 10%;
+    background-color: #393E46;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    padding: 0% 3% 5%;
+    color: #4ECCA3;
+    text-shadow: 5px 0 #232931;
+}
+
+.row {
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+}
+
+h4 {
+    padding-top: 10%;
+    font-family: 'Indie Flower', cursive;
+    color: #fff;
+}

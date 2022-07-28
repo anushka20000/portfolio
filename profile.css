@@ -1,0 +1,135 @@
+/* container1 */
+
+#container1 {
+    padding: 3% 7% 2%;
+    background-color: #CC704B;
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Lobster';
+    font-weight: 900;
+    padding-top: 5%;
+    line-height: 1;
+    font-size: 70px;
+    text-shadow: #000;
+}
+
+.intro {
+    font-family: 'Montserrat';
+    font-size: xx-large;
+    padding: auto;
+    letter-spacing: 3px;
+    color: #FFF7BC;
+    line-height: 2;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+
+.navbar-brand {
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: x-large;
+}
+
+.nav-item {
+    margin-right: 25px;
+}
+
+.nav-link {
+    margin-right: 5px;
+    font-size: larger;
+}
+
+.navbar {
+    height: 80px;
+}
+
+ion-icon {
+    zoom: 3;
+    padding-right: 5px;
+}
+
+
+/* container2 */
+
+#container2 {
+    padding: 3% 10% 3%;
+    background-color: white;
+}
+
+.img {
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    margin: 20px 10px 20px;
+}
+
+h2 {
+    color: #CC704B;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500;
+    padding-bottom: 5%;
+    font-family: 'Montserrat';
+}
+
+.head {
+    color: #CC704B;
+    padding-top: 2%;
+    font-weight: 400;
+    font-size: larger;
+}
+
+.bd {
+    line-height: 2;
+}
+
+.even {
+    padding-left: 500px;
+    margin-right: 20px;
+}
+
+.odd {
+    padding-right: 300px;
+}
+
+#container0 {
+    background-color: #99A799;
+    padding: 3% 10% 3%;
+    text-align: center;
+}
+
+#container0 h2 {
+    font-size: 3rem;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.inttro {
+    color: #FFF7BC;
+    font-family: 'Roboto Slab';
+    font-size: x-large;
+}
+
+#container4 {
+    padding: 3% 7% 3%;
+    background-color: #99A799;
+    text-align: center;
+}
+
+#container4 h2 {
+    color: #CC704B;
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+
+.iconn {
+    padding-left: 10px;
+    padding-right: 10px;
+}

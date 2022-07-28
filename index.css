@@ -1,0 +1,153 @@
+body {
+    font-family: 'Montserrat';
+}
+
+#title {
+    background-color: #ff4c68;
+    height: 800px;
+    padding: 7% 10%;
+}
+
+h1 {
+    font-family: Montserrat-black;
+    font-size: 4rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.download-btn {
+    margin: 5% 3% 5% 0%;
+}
+
+#features {
+    padding: 0% 10% 7%;
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5 rem;
+    font-family: 'Montserrat';
+}
+
+p {
+    text-align: center;
+    color: #8f8f8f;
+}
+
+.icon {
+    padding-left: 38%;
+    margin-bottom: 0.25rem;
+    color: #ef8172;
+    zoom: 5;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.col-lg-4 {
+    padding: 3%;
+}
+
+.ph-img {
+    transform: rotate(25deg);
+    width: 30%;
+    position: absolute;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0% 5% 14%;
+}
+
+.nav-link {
+    font-family: 'Montserrat-light';
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#testimonials {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 10%;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.test-img {
+    margin: 20px;
+    border-radius: 100%;
+    width: 15%;
+}
+
+#press {
+    background-color: #ff4c68;
+    padding: 7% 10%;
+    text-align: center;
+}
+
+.p-logo {
+    width: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 5%;
+}
+
+.carousel-item {
+    padding: 7% 10%;
+}
+
+#pricing {
+    padding: 7% 10%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+#cta {
+    padding: 7% 10%;
+    background-color: #ff4c68;
+    color: white;
+}
+
+.last-button {
+    padding-left: 35%;
+}
+
+.footer {
+    background-color: #fff;
+}
+
+.f-logo {
+    padding-top: 10%;
+    text-align: center;
+    padding-left: 18px;
+}
+
+.logo-item {
+    padding: 0px 15px 15px 0px;
+    color: black;
+}
